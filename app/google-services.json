@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "689245022796",
+    "project_id": "chatidraapp",
+    "storage_bucket": "chatidraapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:689245022796:android:141182ab191c12bed222e9",
+        "android_client_info": {
+          "package_name": "com.example.chatidraapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "689245022796-btkcd64b79qdpcd9ohph163kdmhr91mk.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chatidraapp",
+            "certificate_hash": "57ff6a3422c4b59f7ddfd9109af17c5b9c487040"
+          }
+        },
+        {
+          "client_id": "689245022796-1pf1hopttn4c7olvah14gottgpsd1ics.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYCsICRRggMCohEymTxSgFIrEfKrgYL8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "689245022796-1pf1hopttn4c7olvah14gottgpsd1ics.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
